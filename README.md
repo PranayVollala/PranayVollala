@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PranayVollala.
-- 👀 I’m interested increating web sites.
+- 👀 I’m interested in creating web sites.
 - 🌱 I’m currently learning python.
 - 💞️ I’m looking to collaborate on a company to hance my knowledge.
 - 📫 You can reach me with my Email Id: vollalapranay540@gmail.com
