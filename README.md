@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @PranayVollala.
 - 👀 I’m interested in creating web sites.
-- 🌱 I’m currently learning python.
-- 💞️ I’m looking to collaborate on a company to hance my knowledge.
+- 🌱 I’m a Full Stack Developer.
+- 💞️ I’m looking to collaborate on a company to enhance my knowledge.
 - 📫 You can reach me with my Email Id: vollalapranay540@gmail.com
 
 <!---
